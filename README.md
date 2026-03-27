@@ -1,2 +1,2 @@
 # schort
-Monitise recipes.
+Monitize recipes.
